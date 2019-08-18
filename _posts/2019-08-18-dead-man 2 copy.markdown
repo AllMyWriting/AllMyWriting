@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Dead Man: Jim Jarmusch's Reckoning with American Origin"
+date:   2019-08-18 13:17:38 -0400
+categories: jekyll update
+---
+
+I was roughly ten minutes into Jim Jarmusch's neo-western *Dead Man* when I felt ready to declare that it was my favorite movie of all time. By the end of the film I had rescinded that claim, but it still finished with very high marks. It's a movie that's just buzzing with life: in everything from the actor's performances, to the timeless quality of its black-and-white cinematography, to its equal-parts shallow and moody pastiche of American Western aesthetic, there exists a roaring humor and bubbling complexity that tickles the brain, and begs for interpretation by modern viewers.
+
+I knew going into the film that I was in for an atypical Western, but what I got fell beyond my expectations, even as I was shifting them all throughout the film. As William Blake (not the poet--it's a thing) drifted in and out of sleep on the train and the picture silently faded to black before jumping to shots of the train's heated and anxious wheels and engine I pegged *Dead Man* for a visual poem; when Blake was fired from the accounting job he never had the opportunity to start at a metalworks in a middle-of-nowhere frontier town called Machine, I shifted my goal posts and called it an existential comedy. By the middle of the film this label had evolved into existential crime dramedy; as the film entered its third act I began to suspect it was a full-blown allegory on the nature of violence in America. Then the credits rolled, and I realized that it was all of those things. I had been floating between different levels of interpretation that all existed simultaneously.
+
+The first ten minutes of the film establish the editorial punctuation that the rest of the film employs. The chapters of the film are separated by fades in and out of black, which calls back to William Blake's dreamy, half-awake state. The snowballing farce that unfolds throughout the film's runtime maintains an existential bite. When you trace that snowball back to its humble snowflake beginnings, you'll find an intricately constructed thought experiment about what happens when violent and criminal tendencies appear where there previously were none. Sprinkled all throughout are allusions, some cute and some pivotal, which hook *Dead Man* into the broader modern canon; with these allusions, Jarmusch is telling the audience "look, I'm *responding* to something."
+
+All of this bundles together and makes *Dead Man* a joyous, aching, droll, complicated portrait of one of the most misunderstood and culturally polluted segments of American history. The film takes this pollution and uses it to its advantage, like making art out of recycled garbage. All this, and I've barely scratched the surface: if you've noticed, I haven't even talked about the arc of the story concerning William Blake and Nobody, and their possibly-coincidental, possibly-cosmic connection that drives the plot to its bittersweet, mostly bitter end.
+
+4.5/5
