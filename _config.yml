@@ -19,7 +19,7 @@ description: # this means to ignore newlines until "baseurl:"
   This site serves as a repository for any writing that I do. It's part-portfolio, 
   part blog, part art project. On here you'll find anything from essays on books and film,
   musings, poetry, stories---it's whatever I'm writing, so content will be varied.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "AllMyWriting" # the subpath of your site, e.g. /blog
 url: "http://allmywriting.com" # the base hostname & protocol for your site, e.g. http://allmywriting.com
 
 # Build settings
